@@ -5,14 +5,14 @@
 </p>
 
 <p>
-  💼 Company: <strong>Conquest One - Endenred Ticket</strong>.
+  💼  Company: <strong>Conquest One - Endenred Ticket</strong>.
 </p>
 <p>
-  💼 Company: <strong>Bees - Ab-inbev</strong>.
+  💼  Company: <strong>Bees - Ab-inbev</strong>.
 </p>
 
 <p>
-  💌 Contact me: ⤵️
+  💌  Contact me: ⤵️
 </p>
 
 <p>
