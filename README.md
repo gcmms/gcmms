@@ -6,6 +6,8 @@
 
 <p>
   💼 Company: <strong>Conquest One - Endenred Ticket</strong>.
+</p>
+<p>
   💼 Company: <strong>Bees - Ab-inbev</strong>.
 </p>
 
@@ -78,5 +80,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcmms&hide_langs_below=1&layout=compact" />
 </a>
 
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/gcmms?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![GitHub SEU NOME]( https://img.shields.io/github/followers/gcmms?label=follow&style=social)](https://github.com/gcmms)
 ![](https://komarev.com/ghpvc/?username=gcmms&color=006bed)
