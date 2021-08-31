@@ -71,6 +71,23 @@
 
 <br/>
 
+
+| Empresa | Aplicativo |Link|
+|--|--|--|
+|Endenred|Ticket|[https://apps.apple.com/br/app/ticket/id864205019](https://apps.apple.com/br/app/ticket/id864205019)|
+|Ab-Inbev|Bees iOS|[https://apps.apple.com/br/app/bees-us/id1521898668](https://apps.apple.com/br/app/bees-us/id1521898668)|
+|Ultra|Abastece-ai|[https://apps.apple.com/br/app/abastece-a%C3%AD-cashback-e-pix/id1052059383](https://apps.apple.com/br/app/abastece-a%C3%AD-cashback-e-pix/id1052059383)|
+|Banco Pan| Banco PAN – Conta Digital|[https://apps.apple.com/br/app/banco-pan-conta-digital/id1410400504](https://apps.apple.com/br/app/banco-pan-conta-digital/id1410400504)|
+|Banco Master S.A|Banco Master: Internet Banking|[https://apps.apple.com/br/app/banco-m%C3%A1xima-internet-banking/id1446888568](https://apps.apple.com/br/app/banco-m%C3%A1xima-internet-banking/id1446888568)|
+|AppFactory Solucoes de Informatica LTDA|Itallian Hairtech|[https://apps.apple.com/br/app/itallian-hairtech/id1319429617](https://apps.apple.com/br/app/itallian-hairtech/id1319429617)|
+|Brasil Cash|Conta Brasil Cash | [https://apps.apple.com/br/app/conta-brasil-cash/id1503899771](https://apps.apple.com/br/app/conta-brasil-cash/id1503899771)|
+|Pirelli|Vendas Pirrelli|x|
+|Prometeon|Prometeon Tyres|[https://apps.apple.com/br/app/prometeon-tyres/id1207388924](https://apps.apple.com/br/app/prometeon-tyres/id1207388924)|
+|MC1|WTM3TM|[https://apps.apple.com/br/app/wtm3d/id1539497527](https://apps.apple.com/br/app/wtm3d/id1539497527)|
+|Escola Geração Futuro|Geração Futuro APP|[https://apps.apple.com/br/app/escola-gera%C3%A7%C3%A3o-futuro/id1491994820](https://apps.apple.com/br/app/escola-gera%C3%A7%C3%A3o-futuro/id1491994820)|
+|Escola Geração Futuro|Geração Futuro Educador|[https://apps.apple.com/br/app/escola-gera%C3%A7%C3%A3o-futuro/id1491994820](https://apps.apple.com/br/app/escola-gera%C3%A7%C3%A3o-futuro/id1491994820)|
+
+
 <h1> 📊 My Analytics </h1>
 
 <a href="https://github.com/gcmms">
