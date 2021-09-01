@@ -39,7 +39,7 @@
   ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-1572B6?style=for-the-badge&logo=php&logoColor=white)
   ![React](https://img.shields.io/badge/React-1572B6?style=for-the-badge&logo=react&logoColor=white)
-  ![.NET](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=dotnet&logoColor=white)
+  ![.NET](https://img.shields.io/badge/.NET-5E5C5C?style=for-the-badge&logo=dotnet&logoColor=white)
   ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 
   **💾 Database**
