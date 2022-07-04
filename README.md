@@ -5,9 +5,6 @@
 </p>
 
 <p>
-  💼  Company: <strong>Conquest One - Endenred Ticket</strong>.
-</p>
-<p>
   💼  Company: <strong>Bees - Ab-inbev</strong>.
 </p>
 
