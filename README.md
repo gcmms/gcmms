@@ -73,8 +73,8 @@
 
 | Empresa | Aplicativo |Link|
 |--|--|--|
-|Endenred|Ticket|[https://apps.apple.com/br/app/ticket/id864205019](https://apps.apple.com/br/app/ticket/id864205019)|
 |Ab-Inbev|Bees iOS|[https://apps.apple.com/br/app/bees-us/id1521898668](https://apps.apple.com/br/app/bees-us/id1521898668)|
+|Endenred|Ticket|[https://apps.apple.com/br/app/ticket/id864205019](https://apps.apple.com/br/app/ticket/id864205019)|
 |Ultra|Abastece-ai|[https://apps.apple.com/br/app/abastece-a%C3%AD-cashback-e-pix/id1052059383](https://apps.apple.com/br/app/abastece-a%C3%AD-cashback-e-pix/id1052059383)|
 |Banco Pan| Banco PAN – Conta Digital|[https://apps.apple.com/br/app/banco-pan-conta-digital/id1410400504](https://apps.apple.com/br/app/banco-pan-conta-digital/id1410400504)|
 |Banco Master S.A|Banco Master: Internet Banking|[https://apps.apple.com/br/app/banco-m%C3%A1xima-internet-banking/id1446888568](https://apps.apple.com/br/app/banco-m%C3%A1xima-internet-banking/id1446888568)|
