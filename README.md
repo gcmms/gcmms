@@ -5,10 +5,6 @@
 </p>
 
 <p>
-  💼  Company: <strong>Bees - Ab-inbev</strong>.
-</p>
-
-<p>
   💌  Contact me: ⤵️
 </p>
 
