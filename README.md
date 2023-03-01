@@ -1,5 +1,5 @@
 <h1> 🖖 Hello, my name is <strong>Gabriel!</strong> </h1> 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/gcmms/gcmms/master/src/pc.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   Sou formado em Analise e Desenvolvimento de Sistemas e atuo como <strong>iOS Developer</strong>.<br>
