@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Swift, Objective-C, kotlin, React, Flutter, HTML, CSS, JavaScript, PHP, Node.JS e SQL.</strong>
+  🦄 Linguagens: <strong>Swift, Objective-C, kotlin, React, Flutter, HTML, CSS, JavaScript, PHP, .NET, VIU.JS, Node.JS e SQL.</strong>
 </p>
 
 <p align="left">
