@@ -16,36 +16,43 @@
 
 ---
 
-### 📱 Meus Apps:
-| Aplicativo | Link |
-|------------|------|
-| Sorteador de Letras | [Ver App](https://apps.apple.com/br/app/stop-sorteador-de-letras/id1551750689?platform=iphone) |
-| Sorteador de Letras (Apple Watch) | [Ver App](https://apps.apple.com/br/app/stop-sorteador-de-letras/id1551750689?platform=appleWatch) |
-| Pedra Papel Tesoura | [Ver App](https://apps.apple.com/br/app/pedra-papel-tesoura/id6478033452) |
-| Whats DeepLink | [Ver App](https://apps.apple.com/br/app/whats-deeplink/id6446653488) |
+| Aplicativo                     | Link |
+|-------------------------------|------|
+| <img src="https://gabrielsanzone.app/assets/apps/sorteadorNovoLogo.png" width="30"/> Sorteador de Letras          | [Ver App](https://apps.apple.com/br/app/stop-sorteador-de-letras/id1551750689) |
+| <img src="https://gabrielsanzone.app/assets/apps/sorteadorNovoLogo.png" width="30"/> Sorteador de Letras (Apple Watch) | [Ver App](https://apps.apple.com/br/app/stop-sorteador-de-letras/id1551750689?platform=appleWatch) |
+| <img src="https://gabrielsanzone.app/assets/apps/PedraPapelTesoura.png" width="30"/> Pedra Papel Tesoura           | [Ver App](https://apps.apple.com/br/app/pedra-papel-tesoura/id6478033452) |
+| <img src="https://gabrielsanzone.app/assets/apps/whatsdeeplink.png" width="30"/> Whats Deep Link               | [Ver App](https://apps.apple.com/br/app/whats-deeplink/id6446653488) |
 
 
 ### 📱 Alguns apps em que já trabalhei:
 
-| Empresa | Aplicativo | Link |
-|--------|------------|------|
-| Grupo FCamara | Pegaki para XD | [Ver App](https://play.google.com/store/apps/details?id=br.com.pegaki.crossdocking&hl=pt_BR) |
-| Grupo FCamara | Pegaki para motoristas | [Ver App](https://apps.apple.com/br/app/pegaki-para-motoristas/id6736534451) |
-| Grupo FCamara | Pegaki para pontos | [Ver App](https://apps.apple.com/br/app/pegaki-para-pontos/id1565582669?platform=iphone) |
-| Grupo FCamara | Farfetch | [Ver App](https://apps.apple.com/br/app/farfetch-moda-de-luxo/id906698760) |
-| Conquest One | PagSeguro iOS | [Ver App](https://apps.apple.com/br/app/banco-pagbank-pagseguro/id1186059012) |
-| AB InBev | Bees | [Ver App](https://apps.apple.com/br/app/bees-us/id1521898668) |
-| Edenred | Ticket | [Ver App](https://apps.apple.com/br/app/ticket/id864205019) |
-| Ultra | Abastece-aí | [Ver App](https://apps.apple.com/br/app/abastece-a%C3%AD-cashback-e-pix/id1052059383) |
-| Banco Pan | Banco Pan | [Ver App](https://apps.apple.com/br/app/banco-pan-conta-digital/id1410400504) |
-| Banco Master | Banco Master | [Ver App](https://apps.apple.com/br/app/banco-m%C3%A1xima-internet-banking/id1446888568) |
-| AppFactory | Itallian Hairtech | [Ver App](https://apps.apple.com/br/app/itallian-hairtech/id1319429617) |
-| Brasil Cash | Conta Brasil Cash | [Ver App](https://apps.apple.com/br/app/conta-brasil-cash/id1503899771) |
-| Pirelli | Vendas Pirelli | — |
-| Prometeon | Prometeon Tyres | [Ver App](https://apps.apple.com/br/app/prometeon-tyres/id1207388924) |
-| MC1 | WTM3TM | [Ver App](https://apps.apple.com/br/app/wtm3d/id1539497527) |
-| Escola Geração Futuro | Geração Futuro App | [Ver App](https://apps.apple.com/br/app/escola-gera%C3%A7%C3%A3o-futuro/id1491994820) |
-| Escola Geração Futuro | Geração Futuro Educador | [Ver App](https://apps.apple.com/br/app/escola-gera%C3%A7%C3%A3o-futuro/id1491994820) |
+| Empresa  | Aplicativo                                             | Link |
+|--|--------------------------------------------------------|------|
+|Grupo Fcamara | <img src="https://gabrielsanzone.app/assets/apps/cross.png" width="30"/> Pegaki - para motoristas    | [Ver App](https://play.google.com/store/apps/details?id=br.com.pegaki.crossdocking&hl=pt&gl=US) |
+|Grupo Fcamara | <img src="https://gabrielsanzone.app/assets/apps/pegaki_logo.jpg" width="30"/> Pegaki - para pontos    | [Ver App](https://apps.apple.com/br/app/pegaki-para-pontos/id1565582669?platform=iphone) |
+| Zela  | <img src="https://gabrielsanzone.app/assets/apps/zelaPorto.png" width="30"/> Zela Porto                | — |
+| Zela | <img src="https://gabrielsanzone.app/assets/apps/zela.png" width="30"/> Zela Santos                    | — |
+|Grupo Fcamara | <img src="https://gabrielsanzone.app/assets/apps/agile.webp" width="30"/> AgileDelivery                 | [Ver App](https://play.google.com/store/apps/details?id=br.com.agileprocess.agileroutes) |
+|Grupo Fcamara | <img src="https://gabrielsanzone.app/assets/apps/bg.png" width="30"/> Bergdorf Goodman                  | [Ver App](https://apps.apple.com/us/app/bergdorf-goodman/id1484296650) |
+|Grupo Fcamara | <img src="https://gabrielsanzone.app/assets/apps/farfetchapp.png" width="30"/> Farfetch                  | [Ver App](https://apps.apple.com/pt/app/farfetch-compre-moda-de-luxo/id906698760) |
+| Bees (Ambev) | <img src="https://gabrielsanzone.app/assets/apps/bees.png" width="30"/> Bees                            | [Ver App](https://apps.apple.com/us/app/mybees-usa/id1571982214) |
+| ConquestOne | <img src="https://gabrielsanzone.app/assets/apps/pagbank.PNG" width="30"/> PagBank                      | [Ver App](https://apps.apple.com/br/app/banco-pagbank-pagseguro/id1186059012) |
+| ConquestOne| <img src="https://gabrielsanzone.app/assets/apps/ticket.png" width="30"/> Ticket                        | [Ver App](https://apps.apple.com/br/app/ticket/id864205019) |
+| ConquestOne| <img src="https://gabrielsanzone.app/assets/apps/ticketEstabelecimentos.png" width="30"/> Ticket Estabelecimentos | [Ver App](https://apps.apple.com/br/app/ticket-estabelecimentos/id1133948349) |
+|Grupo Fcamara| <img src="https://gabrielsanzone.app/assets/apps/bancopan.png" width="30"/> Banco Pan                  | [Ver App](https://apps.apple.com/br/app/banco-pan-conta-digital-pix/id1410400504) |
+|AppFactory| <img src="https://gabrielsanzone.app/assets/apps/abasteceai.png" width="30"/> Abastece Aí               | [Ver App](https://apps.apple.com/br/app/abastece-a%C3%AD-ganhar-cashback/id1052059383) |
+|Grupo Fcamara| <img src="https://gabrielsanzone.app/assets/apps/wtm.png" width="30"/> WTM3TM                           | [Ver App](https://apps.apple.com/br/app/wtm3tm/id1453058175) |
+|eWeLink| <img src="https://gabrielsanzone.app/assets/apps/ewlink.png" width="30"/> eWeLink                        | [Ver App](https://apps.apple.com/br/app/ewelink-smart-home/id1035163158) |
+|AppFactory| <img src="https://gabrielsanzone.app/assets/apps/batalha.png" width="30"/> Batalha Funk                 | [Ver App](https://apps.apple.com/ca/app/murb/id1405574385) |
+|AppFactory| <img src="https://gabrielsanzone.app/assets/apps/maximacartoes.png" width="30"/> Máxima Cartões         | [Ver App](https://apps.apple.com/br/app/m%C3%A1xima-cart%C3%B5es/id1544157922) |
+|AppFactory| <img src="https://gabrielsanzone.app/assets/apps/credcesta.png" width="30"/> Credcesta                   | [Ver App](https://apps.apple.com/br/app/credcesta/id1437920462) |
+|AppFactory| <img src="https://gabrielsanzone.app/assets/apps/ItallianHairtech.png" width="30"/> Itallian Hairtech   | [Ver App](https://apps.apple.com/br/app/itallian-hairtech/id1319429617) |
+|AppFactory| <img src="https://gabrielsanzone.app/assets/apps/brasilcash.png" width="30"/> Conta Brasil Cash         | [Ver App](https://apps.apple.com/br/app/conta-brasil-cash/id1503899771) |
+|AppFactory| <img src="https://gabrielsanzone.app/assets/apps/Prometeon.png" width="30"/> Prometeon Tyres            | [Ver App](https://apps.apple.com/br/app/prometeon-tyres/id1207388924) |
+|Geração Futuro| <img src="https://gabrielsanzone.app/assets/apps/gf.png" width="30"/> Geração Futuro App                 | [Ver App](https://apps.apple.com/in/app/escola-gera%C3%A7%C3%A3o-futuro/id1491994820) |
+|Geração Futuro| <img src="https://gabrielsanzone.app/assets/apps/educador.png" width="30"/> Geração Futuro Educador     | [Ver App](https://play.google.com/store/apps/details?id=br.com.geracaofuturosantos&hl=pt_BR&gl=US) |
+
+
 
 ---
 
